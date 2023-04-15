@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kkodmani
-- 👀 I’m interested in things
-- 🌱 I’m currently learning discrete maths sadly
-- 💞️ I’m not looking to collaborate just yet. 
 - 📫 I cannot be reached on Github at the moment. 
 
 <!---
